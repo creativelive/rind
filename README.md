@@ -1,3 +1,3 @@
 # rind
 
-![](https://raw.githubusercontent.com/creativelive/rind/master/rind-372.png)
+![](https://raw.githubusercontent.com/creativelive/rind/master/assets/rind-372.png)
